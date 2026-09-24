@@ -1,0 +1,582 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854784694602416130",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1402351959353434113",
+          "name": "Portal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Valve Corporation",
+          "id": "988798454049652736",
+          "name": "Valve Corporation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Valve Corporation",
+          "id": "988798454049652736",
+          "name": "Valve Corporation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1402351959353434113",
+          "name": "Portal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403403167732146181",
+          "name": "Platformers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898565290983424",
+          "name": "Puzzle games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899856931094543",
+          "name": "Cooperative games"
+        }
+      }
+    ],
+    "conversation_id": "2038309168642396327",
+    "created_at": "2026-03-29T17:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038309168642396327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bongo2727/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/bongo2727/status/2038072211748381045",
+          "start": 29,
+          "url": "https://t.co/8VCpkbBzkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038309168642396327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038072211748381045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个市值千亿的公司却留不住缔造他的人\n世界如此可笑与可悲 https://t.co/8VCpkbBzkh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1402351959353434113",
+              "name": "Portal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402351959353434113",
+              "name": "Portal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403403167732146181",
+              "name": "Platformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898565290983424",
+              "name": "Puzzle games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899856931094543",
+              "name": "Cooperative games"
+            }
+          }
+        ],
+        "conversation_id": "2038309168642396327",
+        "created_at": "2026-03-29T17:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038309168642396327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bongo2727/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/bongo2727/status/2038072211748381045",
+              "start": 29,
+              "url": "https://t.co/8VCpkbBzkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038309168642396327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038072211748381045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个市值千亿的公司却留不住缔造他的人\n世界如此可笑与可悲 https://t.co/8VCpkbBzkh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "919462157778960387",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1402351959353434113",
+              "name": "Portal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402351959353434113",
+              "name": "Portal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403403167732146181",
+              "name": "Platformers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898565290983424",
+              "name": "Puzzle games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899856931094543",
+              "name": "Cooperative games"
+            }
+          }
+        ],
+        "conversation_id": "2038029577243554053",
+        "created_at": "2026-03-29T01:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038072211748381045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567466531444989956",
+              "start": 0,
+              "username": "BackersGamesF"
+            },
+            {
+              "end": 30,
+              "id": "1686323288",
+              "start": 15,
+              "username": "TimSweeneyEpic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038072211748381045",
+        "in_reply_to_user_id": "1567466531444989956",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 22003,
+          "like_count": 428,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038029577243554053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BackersGamesF @TimSweeneyEpic Meanwhile Valve, The guy who wrote the dialogue for Portal was diagnosed with Ulcerative Colitis while working on it. He tried to quit Valve, and Gabe Newell gave him extended leave and told him that his only job was to get better."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | 完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2036902480861417810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 12,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-15T07:17:16.000Z",
+        "description": "meh",
+        "id": "919462157778960387",
+        "location": "Antarctica",
+        "name": "Bongo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861995135665623040/fGQ27xf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 314,
+          "like_count": 4617,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 1974
+        },
+        "username": "Bongo2727",
+        "verified": false
+      }
+    ]
+  }
+}

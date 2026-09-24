@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2036968086927269890"
+      ]
+    },
+    "author_id": "1854784694602416130",
+    "conversation_id": "2036968088206532716",
+    "created_at": "2026-03-26T00:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T01:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036968088206532716"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036968088206532716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位认为 如果一个人做了MECT 忘掉了你 忘掉了几乎一切 那么 ta算死了吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 7200,
+        "end_datetime": "2026-03-31T00:46:51.000Z",
+        "id": "2036968086927269890",
+        "options": [
+          {
+            "label": "算死去",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "精神死亡",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "还算活着",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2036968086927269890"
+          ]
+        },
+        "author_id": "1854784694602416130",
+        "conversation_id": "2036968088206532716",
+        "created_at": "2026-03-26T00:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036968088206532716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036968088206532716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位认为 如果一个人做了MECT 忘掉了你 忘掉了几乎一切 那么 ta算死了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "出生日期2010 0907 池鱼小栈维护者\nHRT:2025 0324 会一些前端\n跨过晨昏线，便是永夜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼",
+        "pinned_tweet_id": "2036902480861417810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      }
+    ]
+  }
+}

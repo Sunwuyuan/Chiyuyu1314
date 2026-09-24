@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854784694602416130",
+    "conversation_id": "2036980741171798502",
+    "created_at": "2026-03-26T01:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T02:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036980741171798502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chiyuyu1314/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/chiyuyu1314/status/2036968088206532716",
+          "start": 40,
+          "url": "https://t.co/U45bBol2GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036980741171798502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036968088206532716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实话讲即使如此。看见那些曾经在一起的照片，她手工做好赠送给你的艺术品\n唉，痛苦 https://t.co/U45bBol2GG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "conversation_id": "2036980741171798502",
+        "created_at": "2026-03-26T01:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T02:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036980741171798502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chiyuyu1314/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/chiyuyu1314/status/2036968088206532716",
+              "start": 40,
+              "url": "https://t.co/U45bBol2GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036980741171798502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036968088206532716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实话讲即使如此。看见那些曾经在一起的照片，她手工做好赠送给你的艺术品\n唉，痛苦 https://t.co/U45bBol2GG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2036968086927269890"
+          ]
+        },
+        "author_id": "1854784694602416130",
+        "conversation_id": "2036968088206532716",
+        "created_at": "2026-03-26T00:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T01:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036968088206532716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036968088206532716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位认为 如果一个人做了MECT 忘掉了你 忘掉了几乎一切 那么 ta算死了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼",
+        "pinned_tweet_id": "2036902480861417810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 0,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 47
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      }
+    ]
+  }
+}

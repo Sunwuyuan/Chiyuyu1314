@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854784694602416130",
+    "conversation_id": "2038493326530564452",
+    "created_at": "2026-03-30T05:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038493326530564452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x/status/20384…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/x/status/2038449419012497522",
+          "start": 10,
+          "url": "https://t.co/3hKmtrxwgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038493326530564452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038449419012497522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一坨没有用的屎。。 https://t.co/3hKmtrxwgg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "conversation_id": "2038493326530564452",
+        "created_at": "2026-03-30T05:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038493326530564452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x/status/20384…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/x/status/2038449419012497522",
+              "start": 10,
+              "url": "https://t.co/3hKmtrxwgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038493326530564452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038449419012497522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一坨没有用的屎。。 https://t.co/3hKmtrxwgg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "783214",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2038449419012497522",
+        "created_at": "2026-03-30T02:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038449419012497522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038449419012497522",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2058,
+          "impression_count": 2710163,
+          "like_count": 29354,
+          "quote_count": 1709,
+          "reply_count": 2675,
+          "retweet_count": 3968
+        },
+        "reply_settings": "everyone",
+        "text": "このアプリは絶対に消さない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Suzhou, Jiangsu Sheng, China",
+              "geo": {
+                "coordinates": [
+                  120.59538,
+                  31.30408
+                ],
+                "type": "Point"
+              },
+              "locality": "Suzhou",
+              "region": "Jiangsu Sheng"
+            }
+          ]
+        },
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | 完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2036902480861417810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 13,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "location": "everywhere",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60814690,
+          "following_count": 1,
+          "like_count": 5990,
+          "listed_count": 85231,
+          "media_count": 2483,
+          "tweet_count": 15691
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854784694602416130",
+    "conversation_id": "2038313696154550701",
+    "created_at": "2026-03-29T17:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038314408246726856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472910881986019330",
+          "start": 0,
+          "username": "xiaochuAnZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038314408246726856",
+    "in_reply_to_user_id": "1472910881986019330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038314117619175528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaochuAnZu 她 qq 1853929661"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "conversation_id": "2038313696154550701",
+        "created_at": "2026-03-29T17:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038314408246726856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472910881986019330",
+              "start": 0,
+              "username": "xiaochuAnZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038314408246726856",
+        "in_reply_to_user_id": "1472910881986019330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038314117619175528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaochuAnZu 她 qq 1853929661"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472910881986019330",
+        "conversation_id": "2038313696154550701",
+        "created_at": "2026-03-29T17:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038314117619175528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1854784694602416130",
+              "start": 0,
+              "username": "Chiyuyu1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038314117619175528",
+        "in_reply_to_user_id": "1854784694602416130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038313696154550701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu1314 你能把他开了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | 完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2036902480861417810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 12,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-20T12:45:02.000Z",
+        "description": "性别是澄曦/休学无聊中/喜欢贴贴抱抱涩涩",
+        "id": "1472910881986019330",
+        "name": "澄曦🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035739009109086208/d8u3zwZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 194,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 248
+        },
+        "username": "xiaochuAnZu",
+        "verified": false
+      }
+    ]
+  }
+}

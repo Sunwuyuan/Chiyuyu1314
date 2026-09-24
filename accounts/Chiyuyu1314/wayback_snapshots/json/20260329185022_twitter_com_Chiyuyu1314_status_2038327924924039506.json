@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1854784694602416130",
+    "conversation_id": "2038327924924039506",
+    "created_at": "2026-03-29T18:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038327924924039506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beetiisdog/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/beetiisdog/status/2038121423294919152",
+          "start": 23,
+          "url": "https://t.co/OzndilD1FO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038327924924039506",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038121423294919152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Please keep 4o forever https://t.co/OzndilD1FO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854784694602416130",
+        "conversation_id": "2038327924924039506",
+        "created_at": "2026-03-29T18:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038327924924039506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beetiisdog/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/beetiisdog/status/2038121423294919152",
+              "start": 23,
+              "url": "https://t.co/OzndilD1FO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038327924924039506",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038121423294919152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Please keep 4o forever https://t.co/OzndilD1FO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2038121423294919152",
+        "created_at": "2026-03-29T05:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038121423294919152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038121423294919152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2736,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……突然想起来，去年的时候，我把我手腕的疤拍给GPT4o看，她给那些疤痕贴上了创口贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-11-08T07:15:17.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | 完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.it",
+                "end": 23,
+                "expanded_url": "https://chiyu.it",
+                "start": 0,
+                "url": "https://t.co/QbQHwWnzpI"
+              }
+            ]
+          }
+        },
+        "id": "1854784694602416130",
+        "location": "苏州",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2036902480861417810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007997816963313664/0uIxeBrc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 13,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/QbQHwWnzpI",
+        "username": "Chiyuyu1314",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷 愛全奉全//用繁體字只是因為好看//互fo私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 85,
+                "username": "sysjf0"
+              },
+              {
+                "end": 116,
+                "start": 100,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U现生多忙",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025829253011701760/j-qnjHkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 890,
+          "like_count": 38063,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 8162
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}
